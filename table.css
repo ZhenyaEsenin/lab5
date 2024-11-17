@@ -1,0 +1,14 @@
+body
+{
+    background-color:rgb(94, 145, 143);
+}
+table,th,td
+{
+    border:1px solid white;
+    border-collapse: collapse;
+}
+
+th,td{
+    background-color: darkseagreen;
+    text-align: center;
+}
